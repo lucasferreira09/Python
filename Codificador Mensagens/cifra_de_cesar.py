@@ -24,5 +24,3 @@ for letra in msg_original:
     msg_codificada += ' '
     
 print(msg_codificada)
-
-print
